@@ -1,0 +1,153 @@
+/*Menus*/
+.container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    
+}
+.container div,a {
+    margin-right: 50px;
+    margin-top: 20px;
+    color: #DD7777;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    
+}
+/*End of Menus*/
+body{
+    background-color:#f7eeef;
+}
+
+/*Home Page*/
+.home{
+    background-color: #FFFFFF;
+    margin-top: 30px;
+    display: flex;
+}
+.home img{
+    max-width: 30%; 
+    height: auto; 
+    margin-top: 50px;
+    margin-left: 70px;
+    box-shadow: 20px;
+    margin-bottom: 60px;
+}
+
+.home1 div{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.name{
+    color: #7D7171;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 0%;   
+ }
+ .home1 h2{
+    color: #DD7777;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+ }
+hr{
+    border: 3px solid #DD7777;
+ }
+#tophr{
+    margin-bottom: 20px;
+}
+#bottomhr{
+    margin-bottom: 0%;
+    margin-top: 20px;
+}
+.info p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: #7D7171;
+    font-size: 13px;
+}
+ strong{
+    font-weight: 600;
+    color: #DD7777;
+}
+/*End of Home Page*/
+
+.headings{
+    color: #7D7171;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: left; 
+    
+}
+.contents{
+    color: #7D7171;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-align: justify;
+    font-weight: 500;
+    line-height: 40px;
+    margin: 20px 20px 20px 20px;
+}
+/*About Me*/
+.aboutMe{
+    background-color: #FFFFFF;
+    margin: 50px 30px 50px 30px;
+    border-radius: 30px 30px 30px 30px;
+    text-align: justify;
+}
+.aboutMe2{
+    margin-left: 30px;
+    margin-right: 50px;
+    text-align: center;
+    
+}
+.aboutMe2 img{
+    max-width: 30%; 
+    height: auto; 
+    box-shadow: 20px;
+
+}
+
+#attainment{
+    color: #7D7171;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 40px;
+    margin: 20px 20px 20px 20px;
+}
+
+dt{
+    margin-left: 60px;
+    margin-right: 80px;
+    font-style: normal;
+}
+dd{
+    margin-left: 100px;
+    margin-right: 80px;
+    font-style: normal;
+}
+
+.return{
+    text-align: right;
+    color: #DD7777;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    margin: 20px 20px 20px 20px;
+}
+
+.underline{
+    border: 0; 
+    border-top: 8px solid #DD7777; 
+    width: 80px; 
+    margin: 0; 
+}
